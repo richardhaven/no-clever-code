@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://richardhaven.github.io/no-clever-code",
+    "hubpress": "https://richardhaven.github.io/no-clever-code",
+    "theme": "//richardhaven.github.io/no-clever-code/themes/casper",
+    "images": "https://richardhaven.github.io/no-clever-code/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
